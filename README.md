@@ -10,7 +10,7 @@
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Options](#Options)
-* [License](#Lisence)
+* [License](#License)
 
 ## Installation
 
