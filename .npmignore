@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+.DS_Store/
+example/
+node_modules/
+package-lock.json

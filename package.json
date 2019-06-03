@@ -1,0 +1,36 @@
+{
+  "name": "@xmqd/webpack-oss-plugin",
+  "version": "0.0.1",
+  "description": "upload files to ali oss.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuckingUsername/webpack-oss-plugin.git"
+  },
+  "keywords": [
+    "webpack4",
+    "webpack",
+    "ali",
+    "oss",
+    "plugin"
+  ],
+  "author": "FuckingUsername <291358773@qq.com> (https://github.com/FuckingUsername/webpack-oss-plugin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuckingUsername/webpack-oss-plugin/issues"
+  },
+  "homepage": "https://github.com/FuckingUsername/webpack-oss-plugin#readme",
+  "engines": {
+    "node": ">=7.10.1",
+    "npm": ">=4.32.2"
+  },
+  "dependencies": {
+    "ali-oss": "^6.1.1"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1"
+  }
+}
