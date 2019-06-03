@@ -67,13 +67,11 @@
 
 ## License
 
-[![mit][mit-badage]][mit-url]
+[MIT](./LICENSE)
 
-[mit-badage]: https://img.shields.io/npm/l/@xmqd/webpack-oss-plugin.svg
 [node-badage]: https://img.shields.io/node/v/@xmqd/webpack-oss-plugin.svg
 [npm-badage]: https://img.shields.io/npm/v/@xmqd/webpack-oss-plugin.svg
 [node-url]: https://nodejs.org/zh-cn/
-[mit-url]: https://opensource.org/licenses/MIT
 [npm-url]: https://www.npmjs.com
 [yarn-url]: https://yarn.bootcss.com
 [webpack-url]: https://webpack.js.org
