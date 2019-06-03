@@ -72,7 +72,7 @@
 [node-badage]: https://img.shields.io/node/v/@xmqd/webpack-oss-plugin.svg
 [npm-badage]: https://img.shields.io/npm/v/@xmqd/webpack-oss-plugin.svg
 [node-url]: https://nodejs.org/zh-cn/
-[npm-url]: https://www.npmjs.com
+[npm-url]: https://www.npmjs.com/package/@xmqd/webpack-oss-plugin
 [yarn-url]: https://yarn.bootcss.com
 [webpack-url]: https://webpack.js.org
 [@xmqd/webpack-oss-plugin-url]: https://git.qufenqi.com/wangjun/webpack-oss-plugin
