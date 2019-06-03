@@ -17,23 +17,23 @@
 [@xmqd/webpack-oss-plugin][@xmqd/webpack-oss-plugin-url] requires [webpack][webpack-url] v4.0.0 or higher.
 
 * Install with [npm][npm-url]
-```bash
+    ```bash
     $ npm install @xmqd/webpack-oss-plugin --save-dev
-```
+    ```
 
 * Install with [yarn][yarn-url]
-```bash
+    ```bash
     $ yarn add @xmqd/webpack-oss-plugin --dev
-```
+    ```
 
 ## Usage
-1. require [@xmqd/webpack-oss-plugin](@xmqd/webpack-oss-plugin-url)
-```js
+* require [@xmqd/webpack-oss-plugin](@xmqd/webpack-oss-plugin-url)
+    ```js
     const OSSPlugin = require('@xmqd/webpack-oss-plugin');
-```
+    ```
 
-2. configure **webpack.prod.config.js**
-```js
+* configure **webpack.prod.config.js**
+    ```js
     // ...
     plugins: [
         // ...
@@ -47,7 +47,7 @@
         // ...
     ],
     // ...
-```
+    ```
 
 ## Options
 |Name|Type|Required|Default|Description|
