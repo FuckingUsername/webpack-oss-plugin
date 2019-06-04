@@ -1,6 +1,6 @@
 {
   "name": "@xmqd/webpack-oss-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "upload files to ali oss.",
   "main": "lib/index.js",
   "scripts": {
